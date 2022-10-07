@@ -1,0 +1,4 @@
+This is the explanation for my new repository 
+It is called TestGit
+This is some text
+For TestGit
